@@ -1,6 +1,6 @@
 # Yauhen Karzhakou
 
-
+![link to my photo](https://sun2.beltelecom-by-minsk.userapi.com/s/v1/if2/eVLVn7IQtcMfO504Bb4LvkyTmafWNM2O1kAURGHtuJi6YdKdcfsY0oupQSAiSM33Upaebc2NfYKmhqw5beJOvTWE.jpg?size=200x216&quality=96&crop=380,274,924,1001&ava=1)
 
 ## About me:
 ### future
