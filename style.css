@@ -1,0 +1,58 @@
+body {
+   font-family: 'Quicksand', sans-serif;
+   display: flex;
+   flex-direction: column;
+   justify-content: space-between; 
+}
+
+.container {
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+.nav-list {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    list-style: none;
+}
+
+.nav-link {
+    padding: 0 15px;
+    line-height: 15px; 
+    color: #FFFFAA; 
+}
+
+.header {
+    background-color: #6F0274;
+}
+
+.main {
+    background-color: #FFFFAA;
+}
+
+.rounded-img {
+    border-radius: 10%;
+}
+
+.contact-list {
+    list-style: none;
+}
+
+.footer {
+    background-color: #6F0274;
+
+}
+
+.footer-text {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    list-style: none; 
+}
+
+.footer-label {    
+    padding-right: 80px; 
+/*после корректной вставки логотипа сделать аккуратное выравнивание footer*/
+    color: #FFFFAA;
+}
